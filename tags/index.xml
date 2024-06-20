@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on MakerLog {STEAM &amp; Elektronika Bloqu}</title>
+    <title>Tags on MakerLog{STEAM &amp; Elektronika Bloqu}</title>
     <link>https://azmakerspace.github.io/tags/</link>
-    <description>Recent content in Tags on MakerLog {STEAM &amp; Elektronika Bloqu}</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <description>Recent content in Tags on MakerLog{STEAM &amp; Elektronika Bloqu}</description>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en-Us</language>
     <copyright>Makerspace Azərbaycan MMC</copyright>
     <lastBuildDate>Fri, 19 Sep 2014 00:00:00 +0000</lastBuildDate>
@@ -24,10 +24,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hackin</title>
-      <link>https://azmakerspace.github.io/tags/hackin/</link>
+      <title>Hacking</title>
+      <link>https://azmakerspace.github.io/tags/hacking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://azmakerspace.github.io/tags/hackin/</guid>
+      <guid>https://azmakerspace.github.io/tags/hacking/</guid>
       <description></description>
     </item>
     <item>
@@ -35,6 +35,20 @@
       <link>https://azmakerspace.github.io/tags/qida-bloku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://azmakerspace.github.io/tags/qida-bloku/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arxiv</title>
+      <link>https://azmakerspace.github.io/tags/arxiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://azmakerspace.github.io/tags/arxiv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Axtarış</title>
+      <link>https://azmakerspace.github.io/tags/axtar%C4%B1%C5%9F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://azmakerspace.github.io/tags/axtar%C4%B1%C5%9F/</guid>
       <description></description>
     </item>
   </channel>
