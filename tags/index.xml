@@ -7,6 +7,35 @@
     <generator>Hugo -- 0.127.0</generator>
     <language>en-Us</language>
     <copyright>Makerspace Azərbaycan MMC</copyright>
+    <lastBuildDate>Fri, 19 Sep 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://azmakerspace.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atx</title>
+      <link>https://azmakerspace.github.io/tags/atx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://azmakerspace.github.io/tags/atx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elektronika</title>
+      <link>https://azmakerspace.github.io/tags/elektronika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://azmakerspace.github.io/tags/elektronika/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackin</title>
+      <link>https://azmakerspace.github.io/tags/hackin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://azmakerspace.github.io/tags/hackin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qida-Bloku</title>
+      <link>https://azmakerspace.github.io/tags/qida-bloku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://azmakerspace.github.io/tags/qida-bloku/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

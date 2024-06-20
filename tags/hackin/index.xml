@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MakerLog {STEAM &amp; Elektronika Bloqu}</title>
-    <link>https://azmakerspace.github.io/</link>
-    <description>Recent content on MakerLog {STEAM &amp; Elektronika Bloqu}</description>
+    <title>Hackin on MakerLog {STEAM &amp; Elektronika Bloqu}</title>
+    <link>https://azmakerspace.github.io/tags/hackin/</link>
+    <description>Recent content in Hackin on MakerLog {STEAM &amp; Elektronika Bloqu}</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-Us</language>
     <copyright>Makerspace Azərbaycan MMC</copyright>
     <lastBuildDate>Fri, 19 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://azmakerspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://azmakerspace.github.io/tags/hackin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ATX Kompüter qida blokundan stolüstü qida blokunun hazırlanması</title>
       <link>https://azmakerspace.github.io/posts/1-atx-qida-bloku/</link>

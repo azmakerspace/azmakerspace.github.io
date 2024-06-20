@@ -2,18 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://azmakerspace.github.io/tags/atx/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://azmakerspace.github.io/posts/1-atx-qida-bloku/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://azmakerspace.github.io/categories/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://azmakerspace.github.io/tags/elektronika/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://azmakerspace.github.io/tags/hackin/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://azmakerspace.github.io/categories/hacking/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://azmakerspace.github.io/categories/lab/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://azmakerspace.github.io/</loc>
     <lastmod>2014-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://azmakerspace.github.io/posts/</loc>
     <lastmod>2014-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://azmakerspace.github.io/search/</loc>
-  </url><url>
-    <loc>https://azmakerspace.github.io/categories/</loc>
-  </url><url>
-    <loc>https://azmakerspace.github.io/archives/</loc>
+    <loc>https://azmakerspace.github.io/tags/qida-bloku/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://azmakerspace.github.io/tags/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://azmakerspace.github.io/search/</loc>
+  </url><url>
+    <loc>https://azmakerspace.github.io/archives/</loc>
   </url>
 </urlset>
