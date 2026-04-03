@@ -16,5 +16,19 @@
       <guid>https://makerspace.az/posts/1-atx-qida-bloku/</guid>
       <description>ATX qida blokundan stolüstü qida blokunun hazırlanması.</description>
     </item>
+    <item>
+      <title>Əlaqə</title>
+      <link>https://makerspace.az/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makerspace.az/contact/</guid>
+      <description>Makerspace Azərbaycan MMC ilə əlaqə saxlamaq üçün məlumat.</description>
+    </item>
+    <item>
+      <title>Haqqımızda</title>
+      <link>https://makerspace.az/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makerspace.az/about/</guid>
+      <description>Makerspace Azərbaycan MMC haqqında qısa məlumat.</description>
+    </item>
   </channel>
 </rss>
